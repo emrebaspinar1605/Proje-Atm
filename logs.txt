@@ -1,0 +1,6 @@
+22.07.2022 15:41:44 emre: Borcunuzdan fazla para yatırdığınız için 1500 Tl iade edilmiştir.
+22.07.2022 15:42:13 emre: 1200 TL Çekim Yapıldı.
+22.07.2022 15:42:30 emre: 1500 TL yatırma işlemi yapıldı.
+22.07.2022 15:44:28 emre: 100 TL borcunuz kalmıştır.
+22.07.2022 15:46:02 emre: -250 TL borcunuz kalmıştır.
+22.07.2022 15:48:06 emre: Borcunuzdan fazla para yatırdığınız için 250 Tl iade edilmiştir.

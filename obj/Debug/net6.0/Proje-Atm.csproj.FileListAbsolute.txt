@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\bin\Debug\net6.0\Proje-Atm.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\bin\Debug\net6.0\Proje-Atm.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\bin\Debug\net6.0\Proje-Atm.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\bin\Debug\net6.0\Proje-Atm.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\bin\Debug\net6.0\Proje-Atm.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\refint\Proje-Atm.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\Proje-Atm.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Atm\obj\Debug\net6.0\ref\Proje-Atm.dll
